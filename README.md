@@ -47,7 +47,7 @@ You are free to use any virtual environment manager like `virtualenv` or
 To run the bot, you can use the following command:
 
 ```bash
-make runbotpy
+make runbotpy-rl
 ```
 
 ## Notes
