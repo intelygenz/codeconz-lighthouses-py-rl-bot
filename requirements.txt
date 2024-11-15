@@ -1,2 +1,5 @@
 grpcio
 protobuf
+numpy
+torch
+sklearn

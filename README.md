@@ -1,6 +1,8 @@
-# codeconz-lighthouses-py-bot
+# codeconz-lighthouses-py-rl-bot
 
-This is a Python bot that can be used to play the game of Lighthouses on the CodeConz platform.
+This is a Python Reinforcement Learning bot that can be used to play the game of Lighthouses on the CodeConz platform.
+
+Check the [Sandbox documentation](sandbox/README) for more information on how to create your own RL bot.
 
 ## Interaction flow with the Game Engine
 
