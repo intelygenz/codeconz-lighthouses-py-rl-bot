@@ -2,4 +2,4 @@ grpcio
 protobuf
 numpy
 torch
-sklearn
+scikit-learn
